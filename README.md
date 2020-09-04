@@ -1,27 +1,24 @@
-# Spotiapp
+# SpotyApp
+------
+  Este proyecto esta hecho con **Angular**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+  Pasos importates para hacer que el programa corra correctamente:
+- Recordar que antes de iniciar la aplicacion instalar los node_modules con npm install
+- Tambien de cambiar el token que esta en los servicios para conseguir el token, se 
+  necesita hacer una petición POST al https://accounts.spotify.com/api/token
+  para esto es recomendado hacerlo con herramientas como postman.
 
-## Development server
+*Esta pagina web fue creada con fines de conocimiento.*
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Este ejercicio consiste en una pagina web utilizando la api de spotify para poder mostrar
+los ultimos release y tambien poder buscar tu artista preferico en el cual cada artista tiene
+su propia pagina con sus canciónes mas populares y un preview de las mismas.
 
-## Code scaffolding
+-------
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Mas informacion y herramientas utilizadas:
+ - **SPA** ( Single Page Application )
+ - **Enrutamiento** ( Para poder navegar entre las distintas paginas sin necesidad de recargar la pagina web )
+ - **Spotify Api** ( Se consume la api de spotify para obtener todos los datos de los nuevos releases, 
+                       realizar la busqueda e información de los artistas )
+ - **ActivatedRouter** ( Para poder obtener la informacion que se le envia a la ruta )
