@@ -9,9 +9,6 @@
   Puedes revisar la documentación de spotify para mas información
   https://developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow en la seccion Client **Credentials Flow**
 
-
-### *Esta pagina web fue creada con fines de experimentacion.*
-
 Este ejercicio consiste en una pagina web utilizando la api de spotify para poder mostrar
 los ultimos release y tambien poder buscar tu artista preferico en el cual cada artista tiene
 su propia pagina con sus canciónes mas populares y un preview de las mismas.
@@ -37,3 +34,4 @@ su propia pagina con sus canciónes mas populares y un preview de las mismas.
                      realizar la busqueda e información de los artistas )
  - **ActivatedRouter** ( Nos permite obtener la informacion que se le envia a la ruta )
  
+*Esta aplicación fue creada con fines de experimentacion.*
