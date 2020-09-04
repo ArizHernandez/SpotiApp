@@ -1,13 +1,14 @@
 # SpotyApp
   
   ## Preview
+  
   ### Home
 ![SpotiApp1](https://user-images.githubusercontent.com/37966712/92272666-35ee9a00-eea7-11ea-8629-7f114a2135c1.png)
 
-  ## Search
+  ### Search
 ![SpotiApp2](https://user-images.githubusercontent.com/37966712/92272674-3ab34e00-eea7-11ea-9f9b-c08918746b31.png)
 
-  ## Pagina de artista
+  ### Pagina de artista
 ![SpotiApp3](https://user-images.githubusercontent.com/37966712/92273843-5ae40c80-eea9-11ea-815e-05229437d5d5.png)
 
 ## Pasos importates por hacer para que el programa corra correctamente:
