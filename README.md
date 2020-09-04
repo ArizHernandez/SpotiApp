@@ -34,4 +34,4 @@ su propia pagina con sus canciónes mas populares y un preview de las mismas.
                      realizar la busqueda e información de los artistas )
  - **ActivatedRouter** ( Nos permite obtener la informacion que se le envia a la ruta )
  
-*Esta aplicación fue creada con fines de experimentacion.*
+*Esta aplicación fue creada con fines de educativos.*
